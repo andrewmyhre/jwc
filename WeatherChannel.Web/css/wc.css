@@ -1,0 +1,98 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.back {
+    
+}
+
+.size1 {
+    width: 720px;
+    height: 90px;
+    background-image: url('/img/TWC_DIGITAL-01-72DPI.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.size2 {
+    width: 300px;
+    height: 250px;
+    background-image: url('/img/TWC_DIGITAL-02-72DPI.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.size3 {
+    width: 300px;
+    height: 600px;
+    background-image: url('/img/TWC_DIGITAL-03-72DPI.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.size4 {
+    width: 640px;
+    height: 480px;
+    background-image: url('/img/TWC_DIGITAL-04-72DPI.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.cta {
+    position: absolute;
+    font-size: 20pt;
+    color: white;
+    font-family: arial;
+}
+.size1 .cta {
+    width: 432px;
+    height: 40px;
+    top: 25px;
+    left: 103px;
+    padding-top: 4px;
+    text-indent: 40px;
+}
+.size1 .right {
+    text-indent: 210px;
+}
+.size2 .cta {
+    width: 300px;
+    height: 40px;
+    top: 99px;
+    left: 0;
+    padding-top: 7px;
+    font-size: 22px;
+}
+.size2 .right {
+    text-indent: 140px;
+}
+.size3 .cta {
+    width: 300px;
+    height: 314px;
+    top: 143px;
+    left: 0;
+    font-size: 32pt;
+}
+.size4 .cta {
+    width: 640px;
+    height: 106px;
+    top: 151px;
+    left: 0;
+    padding-top: 24px;
+    font-size: 36pt;
+    text-indent: 8px;
+}
+.size4 .right {
+    text-indent: 298px;
+}
+.red{ color: red;}
+.center { text-align: center;}
+.hidden { display:none;}
