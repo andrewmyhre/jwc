@@ -51,6 +51,7 @@
     font-size: 20pt;
     color: white;
     font-family: arial;
+    font-weight: bold;
 }
 .size1 .cta {
     width: 432px;
@@ -68,8 +69,9 @@
     height: 40px;
     top: 99px;
     left: 0;
-    padding-top: 7px;
-    font-size: 22px;
+    padding-top: 9px;
+    font-size: 21px;
+    text-indent: 8px;
 }
 .size2 .right {
     text-indent: 140px;
@@ -79,7 +81,7 @@
     height: 314px;
     top: 143px;
     left: 0;
-    font-size: 32pt;
+    font-size: 31pt;
 }
 .size4 .cta {
     width: 640px;
